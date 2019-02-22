@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/colorlib/pen/rxddKy.
+// Site demonstrativo feito para mostrar o projeto para o TCC de Técnico de Informpatica
 
- Simple HTML5/CSS3 login form that also works as registration form. You can tweak this form further to use it as part of your web app, website or anything else. 
+ -- Colégio Politécnico Bento Quirino - 2016

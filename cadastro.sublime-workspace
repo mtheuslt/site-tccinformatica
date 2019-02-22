@@ -1,0 +1,359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"maxlength	Attr"
+			],
+			[
+				"ce",
+				"cep"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"cel",
+				"cellspacing	Attr"
+			],
+			[
+				"met",
+				"meta	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"s",
+				"statement"
+			],
+			[
+				"mysqli_stm",
+				"mysqli_stmt_bind_param"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"a",
+				"alt	Attr"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fra",
+				"frameset	Tag"
+			],
+			[
+				"fr",
+				"frameset	Tag"
+			],
+			[
+				"fram",
+				"frame	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 259.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/www/site - php/cadastro.php",
+		"/G/SITE HTML - JULIO/index.html",
+		"/G/SITE HTML - JULIO/css/style.css",
+		"/G/SITE HTML - JULIO/assets/css/main.css",
+		"/G/SITE HTML - JULIO/assets/css/bootstrap.css",
+		"/G/SITE HTML - JULIO/assets/css/font-awesome.min.css",
+		"/F/SITE HTML - JULIO/index.html",
+		"/F/SITE HTML - JULIO/assets/js/main.js",
+		"/F/SITE HTML - JULIO/assets/js/smoothscroll.js",
+		"/F/SITE HTML - JULIO/assets/js/bootstrap.min.js",
+		"/F/SITE HTML - JULIO/assets/js/classie.js",
+		"/F/SITE HTML - JULIO/assets/js/jquery.min.js",
+		"/G/SITE HTML - JULIO/assets/js/main.js",
+		"/C/Users/Alunos/Desktop/flat-html5-css3-login-form/index.html",
+		"/E/SITE HTML - JULIO/assets/css/main.css",
+		"/C/Users/Alunos/Desktop/flat-html5-css3-login-form/css/style.css",
+		"/C/Users/Alunos/Desktop/flat-html5-css3-login-form/index2.html",
+		"/C/Users/Alunos/Desktop/sign-up-login-form/index.html",
+		"/C/Users/Matheus Silva/Desktop/TESTE/index.html",
+		"/C/Users/Matheus Silva/Desktop/sign-up-login-form/index.html",
+		"/K/SITE JULIO - HTML/SITE JULIO - HTML/minimal/theme/index.html",
+		"/C/Users/Matheus Silva/Desktop/SITE JULIO - HTML/SITE JULIO - HTML/minimal/theme/index.html",
+		"/F/Aula - Programação para Internet/PHP/htdocs - escola/site/conecta.php",
+		"/C/xampp/htdocs/site/conecta.php",
+		"/C/xampp/www/site/formulario.html",
+		"/C/xampp/www/site/verifica.php",
+		"/C/xampp/www/site/insere.php",
+		"/C/xampp/www/site/conexao.php",
+		"/C/xampp/www/site/FAZER - SITE.txt",
+		"/C/xampp/www/site/conecta.php",
+		"/C/xampp/www/site/dicas.html",
+		"/F/Aula - Programação para Internet/PHP/PHP - HTDOCS/site/formulario.html",
+		"/F/Aula - Programação para Internet/PHP/PHP - HTDOCS/site/conecta.php",
+		"/F/Aula - Programação para Internet/PHP/PHP - HTDOCS/site/conexao.php",
+		"/F/Aula - Programação para Internet/PHP/PHP - HTDOCS/site/verifica.php",
+		"/C/xampp/htdocs/site/formulario.html",
+		"/C/xampp/htdocs/site/conect.php",
+		"/C/xampp/htdocs/site/conexao.php",
+		"/C/xampp/www/site/conect.php",
+		"/C/xampp/www/site/conect",
+		"/C/xampp/www/site/conecta1",
+		"/C/xampp/www/site/menu.html",
+		"/C/xampp/www/php/logar.php",
+		"/C/xampp/www/php/registrar.php",
+		"/C/xampp/www/site/action.php",
+		"/C/xampp/www/site/home.html",
+		"/F/Aula - Programação para Internet/PHP - HTDOCS/aula/conecta.php",
+		"/F/Aula - Programação para Internet/PHP - HTDOCS/aula/formulario.html",
+		"/F/Aula - Programação para Internet/PHP - HTDOCS/aula/conectdb.php",
+		"/F/Aula - Programação para Internet/PHP - HTDOCS/aula/exibir.php",
+		"/F/Aula - Programação para Internet/PHP - HTDOCS/aula/inserindo.php",
+		"/F/Aula - Programação para Internet/PHP - HTDOCS/aula/inicio.html",
+		"/C/xampp/htdocs/aula/inicio.html",
+		"/C/xampp/htdocs/aula/conecta.php",
+		"/C/xampp/htdocs/aula/aula1.html",
+		"/C/Users/Matheus Silva/Desktop/php/Register.php",
+		"/C/Users/Matheus Silva/Desktop/php/Login.php",
+		"/G/Aula - Programação para Internet/HTML/Site Oficial - Formulario/topo.html",
+		"/G/Aula - Programação para Internet/HTML/Site Oficial - Formulario/table.html",
+		"/G/Aula - Programação para Internet/HTML/Site Oficial - Formulario/home.html",
+		"/G/Aula - Programação para Internet/HTML/Site Oficial - Formulario/menu.html",
+		"/G/Aula - Programação para Internet/HTML/Site Oficial - Formulario/index.html",
+		"/G/Aula - Programação para Internet/HTML/Matheus Silva de Araujo/home.html",
+		"/G/Aula - Programação para Internet/Apostila HTML, XHTML E CSS.pdf",
+		"/F/Aula - Programação para Internet/HTML/Site Oficial - Formulario/menu.html",
+		"/F/Aula - Programação para Internet/HTML/Site Oficial - Formulario/estilo.css",
+		"/F/Aula - Programação para Internet/HTML/Site Oficial - Formulario/table.html",
+		"/F/Aula - Programação para Internet/HTML/Site Oficial - Formulario/home.html",
+		"/F/Aula - Programação para Internet/HTML/trabalho/formulario.html",
+		"/C/Users/Matheus Silva/Desktop/Rodrigo - Trabalho 26-08-16/Formulario.html",
+		"/C/Users/Matheus Silva/Desktop/trabalho/home.html",
+		"/G/Aula - Programação para Internet/HTML/Tabela/teste.html",
+		"/G/Aula - Programação para Internet/HTML/Tabela/table.html",
+		"/G/Aula - Programação para Internet/HTML/Tabela/teste2",
+		"/G/Aula - Programação para Internet/HTML/trabalho/design.css",
+		"/G/Aula - Programação para Internet/HTML/trabalho/home.html",
+		"/G/Aula - Programação para Internet/HTML/trabalho/formulario.html",
+		"/F/Aula - Programação para Internet/HTML/Matheus Silva de Araujo/menu.html",
+		"/F/Aula - Programação para Internet/HTML/Matheus Silva de Araujo/table.html",
+		"/F/Aula - Programação para Internet/HTML/Matheus Silva de Araujo/index.html",
+		"/F/Aula - Programação para Internet/HTML/Tabela/table.html",
+		"/F/Aula - Programação para Internet/HTML/Tabela/layout.html",
+		"/F/Aula - Programação para Internet/HTML/Tabela/tabela2.html",
+		"/F/Aula - Programação para Internet/HTML/Tabela/testa.html",
+		"/F/Aula - Programação para Internet/HTML/Frame 3 Bimestre/topo.html",
+		"/F/Aula - Programação para Internet/HTML/Frame 3 Bimestre/index.html",
+		"/F/Aula - Programação para Internet/HTML/Frame 3 Bimestre/prologo.html",
+		"/F/Aula - Programação para Internet/HTML/Frame 3 Bimestre/menu.html",
+		"/F/Aula - Programação para Internet/HTML/Frame 3 Bimestre/home.html",
+		"/F/Aula - Programação para Internet/HTML/Frame 3 Bimestre/dicas.html",
+		"/F/Aula - Programação para Internet/HTML/Frame 3 Bimestre/classes.html",
+		"/F/Aula - Programação para Internet/HTML/Tabela/index.html",
+		"/F/Aula - Programação para Internet/HTML/Teste CSS - Prova/index.html",
+		"/F/Aula - Programação para Internet/HTML/Teste CSS - Prova/index2.html",
+		"/F/Aula - Programação para Internet/HTML/Teste CSS - Prova/index3.html",
+		"/F/Aula - Programação para Internet/HTML/Teste CSS - Prova/estilos.css",
+		"/F/Aula - Programação para Internet/HTML/Matheus Silva de Araujo/home.html",
+		"/F/Aula - Programação para Internet/HTML/Matheus Silva de Araujo/topo.html",
+		"/F/Aula - Programação para Internet/HTML/Matheus Silva de Araujo/4.html",
+		"/F/Aula - Programação para Internet/HTML/Matheus Silva de Araujo/3.html",
+		"/F/Aula - Programação para Internet/HTML/Matheus Silva de Araujo/2.html",
+		"/F/Aula - Programação para Internet/HTML/Matheus Silva de Araujo/1.html",
+		"/F/Aula - Programação para Internet/HTML/Frames/3.html",
+		"/F/Aula - Programação para Internet/HTML/Frames/2.html",
+		"/F/Aula - Programação para Internet/HTML/Frames/1.html",
+		"/F/Aula - Programação para Internet/HTML/Frames/topo.html",
+		"/F/Aula - Programação para Internet/HTML/Frames/menu.html",
+		"/F/Aula - Programação para Internet/HTML/Frames/home.html",
+		"/F/Aula - Programação para Internet/HTML/Frames/index.html",
+		"/F/Aula - Programação para Internet/HTML/Frames/Inicio.html",
+		"/F/Aula - Programação para Internet/HTML/Frames/4.html",
+		"/F/Aula - Programação para Internet/HTML/Frames/coluna3.html",
+		"/F/Aula - Programação para Internet/HTML/Frames/coluna2.html",
+		"/F/Aula - Programação para Internet/HTML/Frames/coluna1.html",
+		"/F/Aula - Programação para Internet/HTML/Site Teste/index.html",
+		"/C/Users/Alunos/Desktop/Site/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button",
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cadastro.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

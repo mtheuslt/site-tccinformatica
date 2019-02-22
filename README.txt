@@ -4,7 +4,7 @@
  
 // Não está 100%
  
- -- Problemas com acentuação
+ -- Problemas com acentuação no navegador opera.
  -- Login e Senha não estão mais funcionando.
  
  // Site feito mais para demonstrar a técnica em HTML.
